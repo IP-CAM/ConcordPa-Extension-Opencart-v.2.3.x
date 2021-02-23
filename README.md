@@ -1,8 +1,8 @@
-opencart 2.2 и выше pay module
+Opencart 2.2 and higher pay module
 -----------------------------------
-1. Скопировать папки admin и catalog в корень сайта
-2. Выбрать меню "Дополнения" -> "Оплата" -> Concordpay
-3. Нажать "Установить"
-4. Нажать кнопку "Изменить"
-5. Ввести все необходимые данные и сохранить изменения
+1. Copy the admin and catalog folders to the site root
+2. Select the menu "Add-ons" -> "Payment" -> Concordpay
+3. Click "Install"
+4. Press the "Change" button
+5. Enter all the required data and save the changes 
        
